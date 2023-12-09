@@ -1,8 +1,4 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
+
 # CarBoost
 
 CarBoost is a platform aimed at optimizing user experience in searching for information of used car. CarBoost integrates data from CarMax, Reddit and Youtube.
